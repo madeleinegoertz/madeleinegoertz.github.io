@@ -1,25 +1,29 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Madeleine Goertz</title>
+		<title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		{% if site.google_analytics and jekyll.environment == 'production' %}
-		{% include analytics.html %}
-		{% endif %}
+		<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+		<link rel="manifest" href="/assets/images/site.webmanifest">
+		<link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg" color="#5bbad5">
+		<link rel="shortcut icon" href="/assets/images/favicon.ico">
+		<meta name="msapplication-TileColor" content="#2d89ef">
+		<meta name="msapplication-config" content="/assets/images/browserconfig.xml">
+		<meta name="theme-color" content="#ffffff">
 	</head>
 	<body>
 		<nav>
     		<ul>
 				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
     		</ul>
 		</nav>
 		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi there, I'm Madeleine!</h1>
-				<p>I'm passionate about gerrymandering, klein bottles, knitting yoke sweaters, and clever poetry. Feel free to check out my <a href = https://github.com/madeleinegoertz">GitHub</a></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
 		<footer>
     		<ul>
         		<li>madeleinegoertz [at] outlook [dot] com</li>

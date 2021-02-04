@@ -3,5 +3,3 @@ markdown: kramdown
 # Google Analytics
 google_analytics: G-KQL2PYGNJM
 future: true
-
-theme: jekyll-theme-slate
