@@ -26,6 +26,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  madeleinegoertz
+linkedin_username: madeleinegoertz
+orcid: 0000-0001-6740-7372
+
+# social:
+#   github: madeleinegoertz
+#   linkedin: madeleinegoertz
+#   orcid: 0000-0001-6740-7372
 
 # Build settings
 theme: minima
