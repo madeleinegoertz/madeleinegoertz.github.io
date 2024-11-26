@@ -13,9 +13,8 @@ I am a student in the [blended BS/MS mathematics degree program](https://math.ca
 ### Preprints
 
 <ol reversed>
-    <li>E. Brussel, <ins>M. Goertz</ins>, E. Guptill & K. Lyle. The Moduli Stack of Triangles. <a target="_blank" href="http://arxiv.org/abs/2408.07792">arXiv:2408.07792</a>.</li>
-	
-    <li> E. Brussel & <ins>M. Goertz</ins>. The Torus of Triangles. <a target="_blank" href="http://arxiv.org/abs/2303.11446">arXiv:2303.11446</a>. (submitted).</li>
+    <li>E. Brussel, <ins>M. Goertz</ins>, E. Guptill & K. Lyle. The Moduli Stack of Triangles. <a target="_blank" href="http://arxiv.org/abs/2408.07792">arXiv:2408.07792</a>. (preprint).</li>
+	<li> E. Brussel & <ins>M. Goertz</ins>. The Torus of Triangles. <a target="_blank" href="http://arxiv.org/abs/2303.11446">arXiv:2303.11446</a>. (submitted).</li>
 </ol>
 
 
