@@ -13,7 +13,7 @@ I am a student in the [blended BS/MS mathematics degree program](https://math.ca
 ### Research
 
 <ol reversed>
-    <li>The Quaternary Gray Code and How It Can Be Used to Solve Ziggurat and Other Ziggu Puzzles (with <a target="_blank" href="https://sites.google.com/williams.edu/aaron">A. Williams</a>). <a target="_blank" href="assets\ziggu.pdf">Available here</a>. (preprint).</li>
+    <li>The Quaternary Gray Code and How It Can Be Used to Solve Ziggurat and Other Ziggu Puzzles (with <a target="_blank" href="https://sites.google.com/williams.edu/aaron">A. Williams</a>). <a target="_blank" href="http://arxiv.org/abs/2411.19291">arXiv:2411.19291</a>. (preprint).</li>
     <li>The Moduli Stack of Triangles (with <a target="_blank" href="https://math.calpoly.edu/eric-brussel">E. Brussel</a>, E. Guptill, & K. Lyle). <a target="_blank" href="http://arxiv.org/abs/2408.07792">arXiv:2408.07792</a>. (preprint).</li>
 	<li>The Torus of Triangles (with E. Brussel). <a target="_blank" href="http://arxiv.org/abs/2303.11446">arXiv:2303.11446</a>. (submitted).</li>
 </ol>
