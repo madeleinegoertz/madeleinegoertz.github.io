@@ -10,18 +10,29 @@ I am a student in the [blended BS/MS mathematics degree program](https://math.ca
 
 [Here is my CV.](/assets/mgoertz-cv.pdf)
 
-### Research
+## Research
 
+I have conducted research into moduli spaces of triangles with [Eric Brussel](https://math.calpoly.edu/eric-brussel), funded by the Frost Fund in the Cal Poly Bailey college. I have also conducted research into Gray codes, a subject at the intersection of theoretical computer science and discrete mathematics, with [Aaron Williams](https://sites.google.com/williams.edu/aaron) as part of the [NSF SMALL REU](https://math.williams.edu/small/).
+
+### Preprints
 <ol reversed>
-    <li>The Quaternary Gray Code and How It Can Be Used to Solve Ziggurat and Other Ziggu Puzzles (with <a target="_blank" href="https://sites.google.com/williams.edu/aaron">A. Williams</a>). <a target="_blank" href="http://arxiv.org/abs/2411.19291">arXiv:2411.19291</a>. (preprint).</li>
-    <li>The Moduli Stack of Triangles (with <a target="_blank" href="https://math.calpoly.edu/eric-brussel">E. Brussel</a>, E. Guptill, & K. Lyle). <a target="_blank" href="http://arxiv.org/abs/2408.07792">arXiv:2408.07792</a>. (preprint).</li>
+    <li>The Quaternary Gray Code and How It Can Be Used to Solve Ziggurat and Other Ziggu Puzzles (with A. Williams). <a target="_blank" href="http://arxiv.org/abs/2411.19291">arXiv:2411.19291</a>. (preprint).</li>
+    <li>The Moduli Stack of Triangles (with E. Brussel, E. Guptill, & K. Lyle). <a target="_blank" href="http://arxiv.org/abs/2408.07792">arXiv:2408.07792</a>. (preprint).</li>
 	<li>The Torus of Triangles (with E. Brussel). <a target="_blank" href="http://arxiv.org/abs/2303.11446">arXiv:2303.11446</a>. (submitted).</li>
 </ol>
 
+### Posters
+
+<ol reversed>
+    <li><a href="assets/moduli-poster.pdf">Three Moduli Spaces of Triangles</a>. (with E. Brussel, E. Guptill, & K. Lyle).</li>
+    <li><a href="assets/poncelet-poster.pdf">Poncelet Families and the Triangle of Triangles</a>. (with E. Brussel).</li>
+</ol>
+
+### Projects
 On Moduli Spaces of Triangles. <a target="_blank" href="assets\mg-senior-project.pdf">Available here</a>. (Senior Project).
 
 
-### Some favorites
+## Some favorites
 
 In no particular order...
 
