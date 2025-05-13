@@ -12,7 +12,7 @@ I am a student in the [blended BS/MS mathematics degree program](https://math.ca
 
 ## Research
 
-I have conducted research into moduli spaces of triangles with [Eric Brussel](https://math.calpoly.edu/eric-brussel), funded by the Frost Fund in the Cal Poly Bailey college. I have also conducted research into Gray codes, a subject at the intersection of theoretical computer science and discrete mathematics, with [Aaron Williams](https://sites.google.com/williams.edu/aaron) as part of the [NSF SMALL REU](https://math.williams.edu/small/).
+I have conducted research into moduli spaces of triangles with [Eric Brussel](https://math.calpoly.edu/eric-brussel), funded by the Frost Fund in the Cal Poly Bailey College. I have also conducted research into Gray codes, a subject at the intersection of theoretical computer science and discrete mathematics, with [Aaron Williams](https://sites.google.com/williams.edu/aaron) as part of the [NSF SMALL REU](https://math.williams.edu/small/).
 
 ### Preprints & Publications
 
