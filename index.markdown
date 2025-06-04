@@ -53,6 +53,8 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
 </ol>
 
 ### Projects
+On Diffeomorphism Groups of Surfaces. <a target="_blank" href="assets\ms-defense-slides-web.pdf">Slides available here</a>. (Master's Thesis). 
+
 On Moduli Spaces of Triangles. <a target="_blank" href="assets\mg-senior-project.pdf">Available here</a>. (Senior Project).
 
 
