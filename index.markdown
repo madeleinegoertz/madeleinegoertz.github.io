@@ -10,6 +10,11 @@ I am a student in the [blended BS/MS mathematics degree program](https://math.ca
 
 [Here is my CV.](/assets/cv/mgoertz-cv-web.pdf)
 
+
+- [On Diffeomorphism Groups of Surfaces](https://digitalcommons.calpoly.edu/theses/3005/). (Master's Thesis). [Slides available here](assets\ms-defense-slides-web.pdf). I made this presentation entirely in [IPE](https://ipe.otfried.org/), inspired by [this helpful blog post](https://olejorik.github.io/post/ipe_presentation_template/).
+- [On Moduli Spaces of Triangles](assets\mg-senior-project.pdf). (Senior Project).
+
+
 ## Research
 
 I have conducted research into moduli spaces of triangles with [Eric Brussel](https://math.calpoly.edu/eric-brussel), funded by the Frost Fund in the Cal Poly Bailey College. I have also conducted research into Gray codes, a subject at the intersection of theoretical computer science and discrete mathematics, with [Aaron Williams](https://sites.google.com/williams.edu/aaron) as part of the [NSF SMALL REU](https://math.williams.edu/small/).
@@ -32,18 +37,6 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
     <li>The Stack of Triangles Up to Similarity (with E. Brussel, E. Guptill, & K. Lyle). <a target="_blank" href="http://arxiv.org/abs/2408.07792">arXiv:2408.07792</a>. (preprint).</li>
 </ol>
 
-<!-- \begin{rSection}{Preprints \& Publications}
-	\begin{rSubsectionNumbered}{Journal Articles}
-		\item The Torus of Triangles. (with E. Brussel). (to appear in \emph{Involve, A Journal of Mathematics}).	\href{http://arxiv.org/abs/2303.11446}{arXiv:2303.11446}.	
-	\end{rSubsectionNumbered}
-	\begin{rSubsectionNumbered}{Conference Proceedings}
-		\item Exhaustive Generation of Pattern-Avoiding $s$-Words. (with S. Buick, A. Lastmann, K. Pal, H. Qian, S. Tacheny, A. Williams, L. Williams, and Y. Zhai). (to appear in \textit{Proceedings of the 23rd International Conference on Permutation Patters, 2025}). \href{https://www.researchgate.net/publication/391522113_Exhaustive_Generation_of_Pattern-Avoiding_s-Words}{Link to \underline{Research Gate Preprint}}.
-	\end{rSubsectionNumbered}
-	\begin{rSubsectionNumbered}{Preprints}
-		\item The Quaternary Gray Code and How It Can Be Used to Solve Ziggurat and Other Ziggu Puzzles. (with A. Williams).\\ \href{http://arxiv.org/abs/2411.19291}{arXiv:2411.19291}. (preprint).
-		\item The Stack of Triangles Up to Similarity. (with E. Brussel, E. Guptill, \& K. Lyle). \href{http://arxiv.org/abs/2408.07792}{arXiv:2408.07792}. (preprint).		
-	\end{rSubsectionNumbered}
-\end{rSection} -->
 
 ### Posters
 
@@ -51,12 +44,6 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
     <li><a href="assets/moduli-poster.pdf">Three Moduli Spaces of Triangles</a>. (with E. Brussel, E. Guptill, & K. Lyle).</li>
     <li><a href="assets/poncelet-poster.pdf">Poncelet Families and the Triangle of Triangles</a>. (with E. Brussel).</li>
 </ol>
-
-### Projects
-On Diffeomorphism Groups of Surfaces. <a target="_blank" href="assets\ms-defense-slides-web.pdf">Slides available here</a>. (Master's Thesis). 
-
-On Moduli Spaces of Triangles. <a target="_blank" href="assets\mg-senior-project.pdf">Available here</a>. (Senior Project).
-
 
 ## Some favorites
 
