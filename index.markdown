@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img width="40%" style="float: left; margin-right: 1%;" src="/assets/headshot.jpg"/>
+<img width="22%" style="float: left; margin-right: 1%;" src="/assets/mg-headshot-2025.jpg"/>
 
 Hello! I am an incoming Ph.D. student in the [mathematics department](https://math.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). In 2025, I graduated from the [blended BS/MS mathematics degree program](https://math.calpoly.edu/degree-blended) at [Cal Poly San Luis Obispo](https://www.calpoly.edu/), where I was a [Frost Research Scholar](https://cosam.calpoly.edu/prospective-students/frost-fund/frost-scholarship) in the [Bailey College of Science and Mathematics](https://cosam.calpoly.edu/). I have broad mathematical interests, ranging from algebraic topology to theoretical computer science. I am very passionate about mathematics communication. In my free time, I enjoy hiking and exploring the outdoors of the beautiful coast of California.
 
