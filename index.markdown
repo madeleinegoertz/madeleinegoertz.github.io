@@ -11,13 +11,13 @@ Hello! I am a first-year Ph.D. student in the [mathematics department](https://m
 [Here is my CV.](/assets/cv/mgoertz-cv-web.pdf)
 
 
-- [On Diffeomorphism Groups of Surfaces](https://digitalcommons.calpoly.edu/theses/3005/). (Master's Thesis). [Slides available here](assets\ms-defense-slides-web.pdf). I made this presentation entirely in [IPE](https://ipe.otfried.org/), inspired by [this helpful blog post](https://olejorik.github.io/post/ipe_presentation_template/).
-- [On Moduli Spaces of Triangles](assets\mg-senior-project.pdf). (Senior Project).
+- My thesis, [On Diffeomorphism Groups of Surfaces](https://digitalcommons.calpoly.edu/theses/3005/), was advised by [Patrick Orson](https://patrickorson.com/). The slides from my thesis defense are available [here](assets\ms-defense-slides-web.pdf). I made this presentation entirely in [IPE](https://ipe.otfried.org/), inspired by [this helpful blog post](https://olejorik.github.io/post/ipe_presentation_template/). 
+- [Eric Brussel](https://math.calpoly.edu/eric-brussel) advised my undergraduate senior project, [On Moduli Spaces of Triangles](assets\mg-senior-project.pdf).
 
 
 ## Research
 
-I have conducted research into moduli spaces of triangles with [Eric Brussel](https://math.calpoly.edu/eric-brussel), funded by the Frost Fund in the Cal Poly Bailey College. I have also conducted research into Gray codes, a subject at the intersection of theoretical computer science and discrete mathematics, with [Aaron Williams](https://sites.google.com/williams.edu/aaron) as part of the [NSF SMALL REU](https://math.williams.edu/small/).
+I have conducted research into moduli spaces of triangles with [Eric Brussel](https://math.calpoly.edu/eric-brussel), funded by the Frost Fund in the Cal Poly Bailey College. I have also conducted research into Gray codes, a subject at the intersection of theoretical computer science and discrete mathematics, with [Aaron Williams](https://sites.google.com/williams.edu/aaron) as part of the [NSF SMALL REU](https://math.williams.edu/small/). 
 
 ### Preprints & Publications
 
