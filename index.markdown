@@ -34,7 +34,7 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
 #### Preprints
 <ol reversed>
     <li>The Quaternary Gray Code and How It Can Be Used to Solve Ziggurat and Other Ziggu Puzzles (with A. Williams). <a target="_blank" href="http://arxiv.org/abs/2411.19291">arXiv:2411.19291</a>. (preprint).</li>
-    <li>The Stack of Triangles Up to Similarity (with E. Brussel, E. Guptill, & K. Lyle). <a target="_blank" href="http://arxiv.org/abs/2408.07792">arXiv:2408.07792</a>. (preprint).</li>
+    <li>The Stack of Triangles Up to Similarity (with E. Brussel, E. Guptill, & K. Lyle). <a target="_blank" href="http://arxiv.org/abs/2408.07792">arXiv:2408.07792</a>. (preprint, under review).</li>
 </ol>
 
 
