@@ -28,7 +28,7 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
 
 #### Conference Proceedings
 <ol reversed>
-    <li>Exhaustive Generation of Pattern-Avoiding <math>s</math>-Words (with S. Buick, A. Lastmann, K. Pal, H. Qian, S. Tacheny, A. Williams, L. Williams, and Y. Zhai). <a target="_blank" href="https://www.researchgate.net/publication/391522113_Exhaustive_Generation_of_Pattern-Avoiding_s-Words">Available here</a>. (to appear in <em> Proceedings of the 23rd International Conference on Permutation Patters, 2025</em>).</li>
+    <li>Exhaustive Generation of Pattern-Avoiding <math>s</math>-Words (with S. Buick, A. Lastmann, K. Pal, H. Qian, S. Tacheny, A. Williams, L. Williams, and Y. Zhai). <a target="_blank" href="https://www.researchgate.net/publication/391522113_Exhaustive_Generation_of_Pattern-Avoiding_s-Words">Available here</a>. (to appear in <em> Proceedings of the 23rd International Conference on Permutation Patterns, 2025</em>).</li>
 </ol>
 
 #### Preprints
