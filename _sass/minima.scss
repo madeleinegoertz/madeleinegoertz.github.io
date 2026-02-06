@@ -13,8 +13,10 @@ $spacing-unit: 30px !default;
 
 $text-color: #111 !default;
 $background-color: #fdfdfd !default;
-$dark-color: #154734 !default; // CP dark green
-$brand-color: #1cce25 !default;
+// $dark-color: #154734 !default; // CP dark green
+$dark-color: #002676 !default;// UC-dark blue
+$brand-color: lighten(#004AAE%70, 50%) !default;// UC-medium blue
+// $brand-color: #1cce25 !default;
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark: darken($grey-color, 25%) !default;
