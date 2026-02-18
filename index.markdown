@@ -27,12 +27,13 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
 
 #### Conference Proceedings
 <ol reversed>
+		<li>The Quaternary Gray Code and How It Can Be Used to Solve Ziggurat and Other Ziggu Puzzles. (with <a target="_blank" href="https://sites.google.com/williams.edu/aaron">Aaron Williams</a>). <a target="_blank" href="https://arxiv.org/abs/2411.19291">arXiv:2411.19291</a>(to appear in <em>Proceedings of the 13th International Conference on Fun with Algorithms, 2026</em>).</li>
+
     <li>Exhaustive Generation of Pattern-Avoiding <math>s</math>-Words (with Samuel Buick, Amos Lastmann, Kunal Pal, Helen Qian, Sam Tacheny, <a target="_blank" href="https://sites.google.com/williams.edu/aaron">Aaron Williams</a>, Leah Williams, and Yulin Zhai). <a target="_blank" href="https://arxiv.org/abs/2508.16039">arXiv:2508.16039</a>. (to appear in <em> Proceedings of the 23rd International Conference on Permutation Patterns, 2025</em>).</li>
 </ol>
 
 #### Preprints
 <ol reversed>
-    <li>The Quaternary Gray Code and How It Can Be Used to Solve Ziggurat and Other Ziggu Puzzles (with <a href="https://sites.google.com/williams.edu/aaron" target="_blank">Aaron Williams</a>). <a target="_blank" href="http://arxiv.org/abs/2411.19291">arXiv:2411.19291</a>. (preprint).</li>
     <li>The Stack of Triangles Up to Similarity (with <a target="_blank" href="https://math.calpoly.edu/eric-brussel">Eric Brussel</a>, Elijah Guptill, & Kelly Lyle). <a target="_blank" href="http://arxiv.org/abs/2408.07792">arXiv:2408.07792</a>. (preprint, under review).</li>
 </ol>
 
