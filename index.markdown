@@ -12,6 +12,9 @@ Hello! I am a first-year Ph.D. student in the [mathematics department](https://m
 
 ## Research
 
+Upcoming Activities
+- I will be attending the [Fun with Algorithms conference in Porquerolles, France](https://fun2026.limos.fr/) from May 18-22, 2026 to present my work with Aaron Williams on the Quaternary Gray Code and Ziggu puzzles.
+
 I have conducted research into moduli spaces of triangles with [Eric Brussel](https://math.calpoly.edu/eric-brussel), funded by the Frost Fund in the Cal Poly Bailey College. I have also conducted research into Gray codes, a subject at the intersection of theoretical computer science and discrete mathematics, with [Aaron Williams](https://sites.google.com/williams.edu/aaron) as part of the [NSF SMALL REU](https://math.williams.edu/small/). 
 
 
