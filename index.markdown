@@ -4,11 +4,10 @@
 
 layout: home
 ---
-<img width="15%" style="float: left; margin-right: 1%;" src="/assets/mg-headshot-2025.jpg"/>
+<img width="14%" style="float: left; margin-right: 1%;" src="/assets/mg-headshot-2025.jpg"/>
 
-Hello! I am a first-year Ph.D. student in the [mathematics department](https://math.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I am currently supported by the Chancellor's fellowship. In 2025, I graduated from the [blended BS/MS mathematics degree program](https://math.calpoly.edu/degree-blended) at [Cal Poly San Luis Obispo](https://www.calpoly.edu/), where I was a [Frost Research Scholar](https://cosam.calpoly.edu/prospective-students/frost-fund/frost-scholarship) in the [Bailey College of Science and Mathematics](https://cosam.calpoly.edu/). 
+Hello! I am a first-year Ph.D. student in the [mathematics department](https://math.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I am currently supported by the Chancellor's fellowship. In 2025, I graduated from the [blended BS/MS mathematics degree program](https://math.calpoly.edu/degree-blended) at [Cal Poly San Luis Obispo](https://www.calpoly.edu/), where I was a [Frost Research Scholar](https://cosam.calpoly.edu/prospective-students/frost-fund/frost-scholarship) in the [Bailey College of Science and Mathematics](https://cosam.calpoly.edu/). Here is my [CV](/assets/cv/mgoertz-cv-web.pdf).
 
-[Here is my CV.](/assets/cv/mgoertz-cv-web.pdf)
 
 ## Research
 
