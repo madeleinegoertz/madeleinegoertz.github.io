@@ -37,9 +37,10 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
 
 ### Conference Proceedings
 <ol reversed>
-		<li>The Quaternary Gray Code and Ziggu Puzzles. (with <a target="_blank" href="https://sites.google.com/williams.edu/aaron">Aaron Williams</a>). <em>Proceedings of the 13th International Conference on Fun with Algorithms, 2026</em>. <a target="_blank" href="https://doi.org/10.4230/LIPIcs.FUN.2026.22">10.4230/LIPIcs.FUN.2026.22</a>.</li>
+    <li>The Quaternary Gray Code and Ziggu Puzzles. (with <a target="_blank" href="https://sites.google.com/williams.edu/aaron">Aaron Williams</a>). <em>Proceedings of the 13th International Conference on Fun with Algorithms, 2026</em>. <a target="_blank" href="https://doi.org/10.4230/LIPIcs.FUN.2026.22">10.4230/LIPIcs.FUN.2026.22</a>.</li>
 
-    <li>Exhaustive Generation of Pattern-Avoiding <math>s</math>-Words (with Samuel Buick, Amos Lastmann, Kunal Pal, Helen Qian, Sam Tacheny, <a target="_blank" href="https://sites.google.com/williams.edu/aaron">Aaron Williams</a>, Leah Williams, and Yulin Zhai). <a target="_blank" href="https://arxiv.org/abs/2508.16039">arXiv:2508.16039</a>. (to appear in <em> Proceedings of the 23rd International Conference on Permutation Patterns, 2025</em>).</li>
+    <li>Exhaustive Generation of Pattern-Avoiding <math>s</math>-Words (with Samuel Buick, Amos Lastmann, Kunal Pal, Helen Qian, Sam Tacheny, <a target="_blank" href="https://sites.google.com/williams.edu/aaron">Aaron Williams</a>, Leah Williams, and Yulin Zhai). <em>Proceedings of the 23rd International Conference on Permutation Patterns, 2025</em>. <a target="_blank" href="https://sites.cs.st-andrews.ac.uk/pp25/program/booklet-pp25.pdf">Available here</a>.</li>
+
 </ol>
 
 ### Preprints
@@ -61,7 +62,7 @@ At UC Berkeley:
 
 - Fall 2026: I will be a [Berkeley Connect](https://berkeleyconnect.berkeley.edu/) fellow. This is a great mentoring opportunity for Berkeley undergraduate math majors. 
 - Spring 2026: No teaching, UC Berkeley Chancellor's fellowship.
-- Fall 2025: Graduate Student Instructor (GSI) for Math 51: Calculus I. 
+- Fall 2025: Graduate Student Instructor (GSI) for Math 51: Calculus I taught by [Ko Woon Ohm](https://math.berkeley.edu/~kwohm/).
 
 During my master's degree at Cal Poly, I taught as a graduate teaching associate & instructor of record.
 
