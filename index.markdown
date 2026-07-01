@@ -16,7 +16,7 @@ Here is my [CV](/assets/cv/mgoertz-cv-web.pdf).
 # Activities
 
 ## 2026
-- July 9-11: attending the workshop: [An Invitation to Analytics Combinatorics](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics) at the MPI MiS.
+- June 9-11: attending the workshop: [An Invitation to Analytics Combinatorics](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics) at the MPI MiS.
 - May 22-July 31: visiting the [Nonlinear Algebra Group](https://www.mis.mpg.de/nonlinear-algebra) of the [MPI MiS](https://www.mis.mpg.de/).
 
 - May 18-22: presenting at [Fun with Algorithms conference in Porquerolles, France](https://fun2026.limos.fr/) on my work with Aaron Williams about the Quaternary Gray code and Ziggu puzzles. [Read more here](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FUN.2026.22).
