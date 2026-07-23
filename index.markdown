@@ -16,6 +16,7 @@ Here is my [CV](/assets/cv/mgoertz-cv-web.pdf).
 # Activities
 
 ## 2026
+- July 22: gave a talk in the Nonlinear Algebra seminar of the MPI MiS on the "Linear Programming Degree." [Here are my slides](/assets/lo-degree-talk.pdf).
 - June 9-11: attending the workshop: [An Invitation to Analytics Combinatorics](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics) at the MPI MiS.
 - May 22-July 31: visiting the [Nonlinear Algebra Group](https://www.mis.mpg.de/nonlinear-algebra) of the [MPI MiS](https://www.mis.mpg.de/).
 
