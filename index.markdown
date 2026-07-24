@@ -11,7 +11,7 @@ I am a first-year Ph.D. student in the [mathematics department](https://math.ber
 
  In 2025, I graduated from the [blended BS/MS mathematics degree program](https://math.calpoly.edu/degree-blended) at [Cal Poly San Luis Obispo](https://www.calpoly.edu/), where I was a [Frost Research Scholar](https://cosam.calpoly.edu/prospective-students/frost-fund/frost-scholarship) in the [Bailey College of Science and Mathematics](https://cosam.calpoly.edu/). 
 
-Here is my [CV](/assets/cv/mgoertz-cv-web.pdf).
+Here is my [CV](/assets/mgoertz-cv-web.pdf).
 
 # Activities
 
