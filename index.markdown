@@ -4,7 +4,26 @@
 
 layout: home
 ---
-<img width="20%" style="float: left; margin-right: 1%;" src="/assets/mg-headshot-2025.jpg"/>
+<style>
+  .headshot {
+    width: 100%;
+    max-width: 160px;
+    float: none;
+    display: block;
+    margin: 0 auto 15px auto; /* Centered on mobile */
+  }
+
+  /* Desktop screens */
+  @media (min-width: 600px) {
+    .headshot {
+      width: 25%;
+      float: left;
+      margin: 0 20px 10px 0; /* Floated left on desktop */
+    }
+  }
+</style>
+
+<img class="headshot" src="/assets/mg-headshot-2025.jpg" alt="Headshot" />
 
 
 I am a first-year Ph.D. student in the [mathematics department](https://math.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). I am jointly advised by [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Serkan Hosten](https://sites.google.com/view/serkanhostensfsu). My current research interests are in nonlinear algebra, in particular metric algebraic geometry and algebraic distance optimization. 
