@@ -4,33 +4,14 @@
 
 layout: home
 ---
-<style>
-  .headshot {
-    width: 100%;
-    max-width: 160px;
-    float: none;
-    display: block;
-    margin: 0 auto 15px auto; /* Centered on mobile */
-  }
-
-  /* Desktop screens */
-  @media (min-width: 600px) {
-    .headshot {
-      width: 25%;
-      float: left;
-      margin: 0 20px 10px 0; /* Floated left on desktop */
-    }
-  }
-</style>
-
-<img class="headshot" src="/assets/mg-headshot-2025.jpg" alt="Headshot" />
-
+{% include profile-card.html %}
 
 I am a first-year Ph.D. student in the [mathematics department](https://math.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). I am jointly advised by [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Serkan Hosten](https://sites.google.com/view/serkanhostensfsu). My current research interests are in nonlinear algebra, in particular metric algebraic geometry and algebraic distance optimization. 
 
- In 2025, I graduated from the [blended BS/MS mathematics degree program](https://math.calpoly.edu/degree-blended) at [Cal Poly San Luis Obispo](https://www.calpoly.edu/), where I was a [Frost Research Scholar](https://cosam.calpoly.edu/prospective-students/frost-fund/frost-scholarship) in the [Bailey College of Science and Mathematics](https://cosam.calpoly.edu/). 
+ In 2025, I graduated from the [blended BS/MS mathematics degree program](https://math.calpoly.edu/degree-blended) at [Cal Poly San Luis Obispo](https://www.calpoly.edu/), where I was a [Frost Research Scholar](https://bailey.calpoly.edu/research/undergraduate-research/frost-research-scholarships) in the [Bailey College of Science and Mathematics](https://cosam.calpoly.edu/). 
 
-Here is my [CV](/assets/mgoertz-cv-web.pdf).
+Here is my [CV](/assets/mgoertz-cv-web.pdf). My email address is [m.goertz@berkeley.edu](mailto:m.goertz@berkeley.edu).
+
 
 # Activities
 

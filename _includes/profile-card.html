@@ -1,0 +1,104 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<style>
+  /* Mobile First (Stacked Column) */
+  .profile-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .headshot {
+    width: 100%;
+    max-width: 210px;
+    height: auto;
+  }
+
+  .social-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+  }
+
+  .social-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+    color: #004AAE;
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+  }
+
+  .social-link:hover {
+    background-color: #e0e0e0;
+    color: #000;
+    transform: translateY(-2px);
+  }
+
+  /* Desktop View */
+  @media (min-width: 600px) {
+    .profile-section {
+      float: left;
+      /* Wider fixed container so 6 icons stay on 1 row */
+      width: 290px;
+      margin: 0 30px 15px 0;
+      align-items: center; /* Center image & icons together */
+    }
+
+    .social-links {
+      flex-wrap: wrap; /* Forces icons onto 1 single row */
+      justify-content: center; /* Centers the icon row under the photo */
+      width: 100%;
+    }
+  }
+
+  /* Clear floats for headings or subsequent sections so the card doesn't bleed into them */
+  h1, h2, h3, .clear-profile {
+    clear: both;
+  }
+</style>
+
+<div class="profile-section">
+  <img class="headshot" src="/assets/mg-headshot-2025.jpg" alt="Headshot" />
+
+  <div class="social-links">
+    <!-- Email -->
+    <a href="mailto:m.goertz@berkeley.edu" class="social-link" title="Email">
+      <i class="fa-solid fa-envelope"></i>
+    </a>
+
+    <!-- arXiv -->
+    <a href="https://arxiv.org/a/goertz_m_1.html" class="social-link" target="_blank" rel="noopener noreferrer" title="arXiv">
+      <i class="fa-solid fa-book-open"></i>
+    </a>
+    
+    <!-- ORCID -->
+    <a href="https://orcid.org/{{ site.orcid }}" class="social-link" target="_blank" rel="noopener noreferrer" title="ORCID">
+      <i class="fa-brands fa-orcid"></i>
+    </a>
+
+    <!-- Google Scholar -->
+    <a href="https://scholar.google.com/citations?user={{ site.googlescholar_id }}" class="social-link" target="_blank" rel="noopener noreferrer" title="Google Scholar">
+      <i class="fa-solid fa-graduation-cap"></i>
+    </a>
+
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="social-link" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+      <i class="fa-brands fa-linkedin-in"></i>
+    </a>
+
+    <!-- GitHub -->
+    <a href="https://github.com/madeleinegoertz" class="social-link" target="_blank" rel="noopener noreferrer" title="GitHub">
+      <i class="fa-brands fa-github"></i>
+    </a>
+  </div>
+</div>
