@@ -6,7 +6,7 @@ layout: home
 ---
 {% include profile-card.html %}
 
-I am a first-year Ph.D. student in the [mathematics department](https://math.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). I am jointly advised by [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Serkan Hosten](https://sites.google.com/view/serkanhostensfsu). My current research interests are in nonlinear algebra, in particular metric algebraic geometry and algebraic distance optimization. 
+I am a second-year Ph.D. student in the [mathematics department](https://math.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). I am jointly advised by [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Serkan Hosten](https://sites.google.com/view/serkanhostensfsu). My current research interests are in nonlinear algebra, in particular metric algebraic geometry and algebraic distance optimization. 
 
  In 2025, I graduated from the [blended BS/MS mathematics degree program](https://math.calpoly.edu/degree-blended) at [Cal Poly San Luis Obispo](https://www.calpoly.edu/), where I was a [Frost Research Scholar](https://bailey.calpoly.edu/research/undergraduate-research/frost-research-scholarships) in the [Bailey College of Science and Mathematics](https://cosam.calpoly.edu/). 
 
