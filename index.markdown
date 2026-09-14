@@ -15,9 +15,13 @@ Here is my [CV](/assets/mgoertz-cv-web.pdf). My email address is [m.goertz@berke
 
 # Activities
 
+## 2027
+
+- February 8-April 9: participating in the [ICERM Semester Program on Metric Algebraic Geometry: Going Global](https://icerm.brown.edu/program/semester_program/sp-s27) in Providence, RI.
+
 ## 2026
 
-- September 9: I am giving a talk in the [SFSU Algebra, Geometry, and Combinatorics Seminar](https://sites.google.com/view/sfsuagc/fall-2026?authuser=0) on the linear optimization degrees of varieties.
+- September 9: gave a talk in the [SFSU Algebra, Geometry, and Combinatorics Seminar](https://sites.google.com/view/sfsuagc/fall-2026?authuser=0) on the linear optimization degrees of varieties. [Here are my slides](/assets/lo-degrees-talk-sfsu.pdf).
 - July 22: gave a talk in the Nonlinear Algebra seminar of the MPI MiS on the "Linear Programming Degree." [Here are my slides](/assets/lo-degree-talk.pdf).
 - June 9-11: attending the workshop: [An Invitation to Analytics Combinatorics](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics) at the MPI MiS.
 - May 22-July 31: visiting the [Nonlinear Algebra Group](https://www.mis.mpg.de/nonlinear-algebra) of the [MPI MiS](https://www.mis.mpg.de/).
