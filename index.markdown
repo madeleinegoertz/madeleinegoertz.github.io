@@ -41,7 +41,7 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
 
 ### Journal Articles
 
-- The Torus of Triangles (with [Eric Brussel](https://math.calpoly.edu/eric-brussel)). [arXiv:2303.11446](http://arxiv.org/abs/2303.11446). (to appear in *Involve, a Journal of Mathematics*).
+- The Torus of Triangles (with [Eric Brussel](https://math.calpoly.edu/eric-brussel)). Involve, a Journal of Mathematics, 19 no. 4 (2026) 575–591. [10.2140/involve.2026.19.575](https://msp.org/involve/2026/19-4/p03.xhtml).
 
 ### Conference Proceedings
 
