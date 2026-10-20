@@ -8,7 +8,7 @@ layout: home
 
 I am a second-year Ph.D. student in the [mathematics department](https://math.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). I am jointly advised by [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Serkan Hosten](https://sites.google.com/view/serkanhostensfsu). My current research interests are in nonlinear algebra, in particular metric algebraic geometry and algebraic distance optimization. 
 
- In 2025, I graduated from the [blended BS/MS mathematics degree program](https://math.calpoly.edu/degree-blended) at [Cal Poly San Luis Obispo](https://www.calpoly.edu/), where I was a [Frost Research Scholar](https://bailey.calpoly.edu/research/undergraduate-research/frost-research-scholarships) in the [Bailey College of Science and Mathematics](https://cosam.calpoly.edu/). 
+In 2025, I graduated from the [blended BS/MS mathematics degree program](https://math.calpoly.edu/degree-blended) at [Cal Poly San Luis Obispo](https://www.calpoly.edu/), where I was a [Frost Research Scholar](https://bailey.calpoly.edu/research/undergraduate-research/frost-research-scholarships) in the [Bailey College of Science and Mathematics](https://cosam.calpoly.edu/). 
 
 Here is my [CV](/assets/mgoertz-cv-web.pdf). My email address is [m.goertz@berkeley.edu](mailto:m.goertz@berkeley.edu).
 
@@ -25,9 +25,7 @@ Here is my [CV](/assets/mgoertz-cv-web.pdf). My email address is [m.goertz@berke
 - July 22: gave a talk in the Nonlinear Algebra seminar of the MPI MiS on the "Linear Programming Degree." [Here are my slides](/assets/lo-degree-talk.pdf).
 - June 9-11: attending the workshop: [An Invitation to Analytics Combinatorics](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics) at the MPI MiS.
 - May 22-July 31: visiting the [Nonlinear Algebra Group](https://www.mis.mpg.de/nonlinear-algebra) of the [MPI MiS](https://www.mis.mpg.de/).
-
 - May 18-22: presenting at [Fun with Algorithms conference in Porquerolles, France](https://fun2026.limos.fr/) on my work with Aaron Williams about the Quaternary Gray code and Ziggu puzzles. [Read more here](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FUN.2026.22).
-
 - April 13-17: visited the [Nonlinear Algebra Group](https://www.mis.mpg.de/nonlinear-algebra) of the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) and attended the [Workshop on Metric Algebraic Geometry: Starting Local](https://www.mis.mpg.de/events/series/workshop-metric-algebraic-geometry-starting-local).
 
 # Research
@@ -46,13 +44,11 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
 ### Conference Proceedings
 
 - The Quaternary Gray Code and Ziggu Puzzles. (with [Aaron Williams](https://sites.google.com/williams.edu/aaron)). *Proceedings of the 13th International Conference on Fun with Algorithms, 2026*. [10.4230/LIPIcs.FUN.2026.22](https://doi.org/10.4230/LIPIcs.FUN.2026.22).
-
 - Exhaustive Generation of Pattern-Avoiding *s*-Words (with Samuel Buick, Amos Lastmann, Kunal Pal, Helen Qian, Sam Tacheny, [Aaron Williams](https://sites.google.com/williams.edu/aaron), Leah Williams, and Yulin Zhai). *Proceedings of the 23rd International Conference on Permutation Patterns, 2025*. [Available here](https://sites.cs.st-andrews.ac.uk/pp25/program/booklet-pp25.pdf).
 
 ### Preprints
 
 - The Stack of Triangles Up to Similarity (with [Eric Brussel](https://math.calpoly.edu/eric-brussel), Elijah Guptill, & Kelly Lyle). [arXiv:2408.07792](http://arxiv.org/abs/2408.07792). (under review).
-
 
 ## Posters
 
