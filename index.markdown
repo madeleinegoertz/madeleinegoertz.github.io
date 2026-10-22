@@ -37,6 +37,11 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
 
 ## Preprints & Publications
 
+### Preprints
+
+- The Logarithmic A-Discriminant (with [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://sites.google.com/view/simontelen/home-page)). [arXiv:2610.29204](https://arxiv.org/abs/2610.29204).
+- The Stack of Triangles Up to Similarity (with [Eric Brussel](https://math.calpoly.edu/eric-brussel), Elijah Guptill, & Kelly Lyle). [arXiv:2408.07792](http://arxiv.org/abs/2408.07792). (under review).
+
 ### Journal Articles
 
 - The Torus of Triangles (with [Eric Brussel](https://math.calpoly.edu/eric-brussel)). Involve, a Journal of Mathematics, 19 no. 4 (2026) 575–591. [10.2140/involve.2026.19.575](https://msp.org/involve/2026/19-4/p03.xhtml).
@@ -45,10 +50,6 @@ I have conducted research into moduli spaces of triangles with [Eric Brussel](ht
 
 - The Quaternary Gray Code and Ziggu Puzzles. (with [Aaron Williams](https://sites.google.com/williams.edu/aaron)). *Proceedings of the 13th International Conference on Fun with Algorithms, 2026*. [10.4230/LIPIcs.FUN.2026.22](https://doi.org/10.4230/LIPIcs.FUN.2026.22).
 - Exhaustive Generation of Pattern-Avoiding *s*-Words (with Samuel Buick, Amos Lastmann, Kunal Pal, Helen Qian, Sam Tacheny, [Aaron Williams](https://sites.google.com/williams.edu/aaron), Leah Williams, and Yulin Zhai). *Proceedings of the 23rd International Conference on Permutation Patterns, 2025*. [Available here](https://sites.cs.st-andrews.ac.uk/pp25/program/booklet-pp25.pdf).
-
-### Preprints
-
-- The Stack of Triangles Up to Similarity (with [Eric Brussel](https://math.calpoly.edu/eric-brussel), Elijah Guptill, & Kelly Lyle). [arXiv:2408.07792](http://arxiv.org/abs/2408.07792). (under review).
 
 ## Posters
 
