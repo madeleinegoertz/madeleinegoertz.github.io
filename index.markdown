@@ -39,7 +39,7 @@ Here is my [CV](/assets/mgoertz-cv-web.pdf). My email address is [m.goertz@berke
 
 ### Preprints
 
-- The Logarithmic A-Discriminant (with [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://sites.google.com/view/simontelen/home-page)). [arXiv:2610.29204](https://arxiv.org/abs/2610.29204).
+- The Logarithmic A-Discriminant (with [Bernd Sturmfels](https://math.berkeley.edu/~bernd/) and [Simon Telen](https://sites.google.com/view/simontelen/home-page)). [arXiv:2610.29204](https://arxiv.org/abs/2610.29204). Supplemental code available at [Zenodo](https://zenodo.org/records/23173136).
 - The Stack of Triangles Up to Similarity (with [Eric Brussel](https://math.calpoly.edu/eric-brussel), Elijah Guptill, & Kelly Lyle). [arXiv:2408.07792](http://arxiv.org/abs/2408.07792). (under review).
 
 ### Journal Articles
