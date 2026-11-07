@@ -21,11 +21,12 @@ Here is my [CV](/assets/mgoertz-cv-web.pdf). My email address is [m.goertz@berke
 
 ## 2026
 
+- December 1: giving a talk in the [UC Berkeley Commutative Algebra & Algebraic Geometry Seminar](https://eisenbud.github.io/deSeminar/Fall2026.html) on the logarithmic A-discriminant.
 - September 9: gave a talk in the [SFSU Algebra, Geometry, and Combinatorics Seminar](https://sites.google.com/view/sfsuagc/fall-2026?authuser=0) on the linear optimization degrees of varieties. [Here are my slides](/assets/lo-degrees-talk-sfsu.pdf).
 - July 22: gave a talk in the Nonlinear Algebra seminar of the MPI MiS on the "Linear Programming Degree." [Here are my slides](/assets/lo-degree-talk.pdf).
-- June 9-11: attending the workshop: [An Invitation to Analytics Combinatorics](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics) at the MPI MiS.
-- May 22-July 31: visiting the [Nonlinear Algebra Group](https://www.mis.mpg.de/nonlinear-algebra) of the [MPI MiS](https://www.mis.mpg.de/).
-- May 18-22: presenting at [Fun with Algorithms conference in Porquerolles, France](https://fun2026.limos.fr/) on my work with Aaron Williams about the Quaternary Gray code and Ziggu puzzles. [Read more here](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FUN.2026.22).
+- June 9-11: attended the workshop: [An Invitation to Analytics Combinatorics](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics) at the MPI MiS.
+- May 22-July 31: visited the [Nonlinear Algebra Group](https://www.mis.mpg.de/nonlinear-algebra) of the [MPI MiS](https://www.mis.mpg.de/).
+- May 18-22: presented at [Fun with Algorithms conference in Porquerolles, France](https://fun2026.limos.fr/) on my work with Aaron Williams about the Quaternary Gray code and Ziggu puzzles. [Read more here](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FUN.2026.22).
 - April 13-17: visited the [Nonlinear Algebra Group](https://www.mis.mpg.de/nonlinear-algebra) of the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) and attended the [Workshop on Metric Algebraic Geometry: Starting Local](https://www.mis.mpg.de/events/series/workshop-metric-algebraic-geometry-starting-local).
 
 # Research
